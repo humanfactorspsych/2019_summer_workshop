@@ -27,7 +27,7 @@ Organizer : Jehun Hong
 
 ## II. Methodology/Literature Review
 
-### 1. An Introduction to the Event-related Potential Technique (Steven Luck, 2014)<br>
+#### 1. An Introduction to the Event-related Potential Technique (Steven Luck, 2014)<br>
 Organizer : YongEun Rhee , Whani Kim <br>
 
 [link 1](https://github.com/clararhee/summer-study/tree/master/summer-study/EEG)<br>

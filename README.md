@@ -2,7 +2,7 @@
 ### Organizers : 
 Yoon Kyung Lee (yoonlee78@snu.ac.kr, [github](https://github.com/yoonlee78)) <br>
 YongEun Rhee (clara.rhee@snu.ac.kr, [github](https://github.com/clararhee)) <br>
-Whani Kim (whani.kim@snu.ac.kr,[github](https://github.com/domeis))<br>
+Whani Kim (cojo2018@snu.ac.kr,[github](https://github.com/domeis))<br>
 Jehun Hong (prxzxc@snu.ac.kr,[github](https://github.com/jehunprxzxc)) <br>
 
 ### About this workshop
